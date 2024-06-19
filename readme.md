@@ -38,4 +38,4 @@ Para executar o jogo:
 
 - Certifique-se de ter o Python instalado em sua máquina.
 - Execute python game.py no terminal dentro do diretório do projeto.
-- Siga as instruções para escolher o nível de dificuldade e responder às operações matemáticas apresentadas.# Desafios-Matematicos
+- Siga as instruções para escolher o nível de dificuldade e responder às operações matemáticas apresentadas.
